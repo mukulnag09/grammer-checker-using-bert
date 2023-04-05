@@ -1,1 +1,1 @@
-# grammer-checker-using-bert
+# grammar-checker-using-bert
